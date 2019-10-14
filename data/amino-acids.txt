@@ -18,3 +18,4 @@ Threonine	Thr
 Tryptophan	Trp
 Tyrosine	Tyr
 Valine		Val
+hello
