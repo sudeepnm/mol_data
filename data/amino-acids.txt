@@ -19,3 +19,4 @@ Tryptophan	Trp
 Tyrosine	Tyr
 Valine		Val
 
+Thiamine Thm
